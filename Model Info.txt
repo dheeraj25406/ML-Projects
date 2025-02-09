@@ -1,0 +1,1 @@
+We have implemented a Logistic Regression model, where we have taken a dataset of 100 students which contains the IQ, CGPA and Placement status of the students. We have split the date into training and testing data in the ratio 9:1 and then trained it. We have obtained a test accuracy of 90%.
